@@ -1,0 +1,313 @@
+﻿timestamp (ET),agitimestamp (ET),Location,level,Observation,Behaviour
+12/10/2016 21:02,12/10/2016 21:00,Kitchen,5,Withdrawn,Normal
+12/15/2016 3:22,12/15/2016 3:21,Kitchen,3,"Vocal1, Withdrawn",Normal
+12/15/2016 19:14,12/16/2016 2:20,Other,3,Withdrawn,Normal
+12/19/2016 1:57,12/19/2016 1:55,Other,4,Withdrawn,Normal
+12/28/2016 20:36,12/28/2016 19:00,Other,4,"Vocal2, Withdrawn",Normal
+12/28/2016 23:57,12/28/2016 23:55,Kitchen,3,Withdrawn,Normal
+12/29/2016 2:23,12/29/2016 2:03,Bedroom,4,"Communication, Vocal1, Withdrawn",Normal
+12/31/2016 4:56,12/31/2016 4:52,Bedroom,3,"Vocal1,0",Normal
+03/03/2017 11:17,03/03/2017 11:16,Other,9,Vocal1; Vocal2;,Agitation
+03/03/2017 23:22,03/03/2017 22:21,Other,7,Repetition; Vocal1; Vocal2;,Normal
+05/03/2017 13:17,05/03/2017 13:00,Living Room,8,Vocal1; Vocal2;,Agitation
+07/03/2017 13:13,07/03/2017 13:13,Kitchen,8,Vocal2;,Agitation
+08/03/2017 19:14,08/03/2017 19:10,Living Room,5,Vocal1;,Normal
+09/03/2017 15:12,09/03/2017 15:00,Kitchen,1,Vocal1; Vocal2;,Normal
+10/03/2017 13:52,10/03/2017 13:45,Living Room,7,Repetition; Vocal1; Vocal2;,Normal
+11/03/2017 20:09,11/03/2017 18:08,Living Room,5,Withdrawn,Normal
+12/03/2017 22:14,12/03/2017 12:14,Kitchen,6,Repetition; Vocal1; Vocal2;,Normal
+13/03/2017 14:43,13/03/2017 14:40,Entryway,5,Vocal1;,Normal
+14/03/2017 12:31,14/03/2017 11:10,Kitchen,9,Clothing; Communication; Vocal1; Vocal2;,Agitation
+15/03/2017 17:42,15/03/2017 15:41,Kitchen,6,Vocal1; Vocal2;,Normal
+15/03/2017 23:13,15/03/2017 19:12,Kitchen,7,Vocal1; Vocal2;,Normal
+16/03/2017 11:56,16/03/2017 09:56,Kitchen,7,Vocal1; Vocal2;,Normal
+18/03/2017 10:32,18/03/2017 10:32,Bedroom,9,Vocal1; Vocal2;,Agitation
+18/03/2017 20:49,18/03/2017 12:49,Kitchen,9,Vocal1; Vocal2;,Agitation
+20/03/2017 16:46,20/03/2017 14:46,Bedroom,4,Frustration; Vocal1;,Normal
+21/03/2017 16:18,21/03/2017 16:18,Entryway,6,Vocal1; Vocal2;,Normal
+28/03/2017 17:36,28/03/2017 16:35,Kitchen,5,Communication; Vocal1;,Normal
+29/03/2017 11:23,29/03/2017 11:23,Kitchen,7,Vocal1; Vocal2;,Normal
+29/03/2017 19:39,29/03/2017 19:34,Living Room,5,Communication; Repetition; Vocal1;,Normal
+30/03/2017 23:26,30/03/2017 23:26,Entryway,6,Communication; Vocal1; Vocal2;,Normal
+01/04/2017 14:34,01/04/2017 14:33,Kitchen,1,Repetition;,Normal
+03/04/2017 19:00,03/04/2017 18:59,Kitchen,1,Repetition;,Normal
+04/04/2017 09:54,04/04/2017 09:53,Kitchen,1,Communication;,Normal
+04/04/2017 09:54,04/04/2017 09:54,Kitchen,1,Repetition;,Normal
+04/04/2017 16:19,04/04/2017 14:18,Kitchen,3,Frustration;,Normal
+04/04/2017 20:37,04/04/2017 17:36,Kitchen,3,Withdrawn;,Normal
+05/04/2017 15:11,05/04/2017 15:10,Kitchen,4,Frustration; Withdrawn;,Normal
+06/04/2017 17:22,06/04/2017 17:22,Kitchen,1,Repetition;,Normal
+07/04/2017 21:04,07/04/2017 21:04,Kitchen,1,Frustration; Withdrawn;,Normal
+08/04/2017 20:34,08/04/2017 18:33,Other,4,Frustration; Withdrawn;,Normal
+09/04/2017 12:52,09/04/2017 12:51,Kitchen,1,Repetition;,Normal
+09/04/2017 21:10,09/04/2017 21:09,Kitchen,1,Repetition;,Normal
+10/04/2017 20:16,10/04/2017 10:10,Kitchen,1,Withdrawn;,Normal
+11/04/2017 09:18,11/04/2017 09:17,Kitchen,1,Repetition;,Normal
+12/04/2017 09:09,12/04/2017 09:08,Kitchen,1,Repetition;,Normal
+12/04/2017 15:25,12/04/2017 00:23,Kitchen,2,Frustration;,Normal
+13/04/2017 10:32,13/04/2017 10:32,Kitchen,1,Repetition;,Normal
+13/04/2017 16:11,13/04/2017 16:10,Living Room,3,Ambulation; Frustration;,Normal
+14/04/2017 11:23,14/04/2017 11:22,Kitchen,1,Communication;,Normal
+14/04/2017 16:07,14/04/2017 11:23,Kitchen,1,Communication; Repetition;,Normal
+15/04/2017 09:57,15/04/2017 09:56,Kitchen,1,Repetition;,Normal
+15/04/2017 20:46,15/04/2017 20:45,Kitchen,1,Repetition;,Normal
+16/04/2017 11:52,16/04/2017 09:51,Other,3,Frustration; Withdrawn;,Normal
+17/04/2017 08:50,17/04/2017 08:50,Kitchen,1,Lost;,Normal
+17/04/2017 23:08,17/04/2017 16:07,Living Room,2,Ambulation; Frustration; Withdrawn;,Normal
+18/04/2017 08:51,18/04/2017 08:50,Kitchen,1,Frustration;,Normal
+18/04/2017 21:04,18/04/2017 21:04,Kitchen,1,Repetition;,Normal
+19/04/2017 08:35,19/04/2017 08:35,Kitchen,1,Repetition;,Normal
+19/04/2017 15:14,19/04/2017 15:14,Kitchen,1,Repetition;,Normal
+20/04/2017 08:32,20/04/2017 08:32,Kitchen,1,Repetition;,Normal
+20/04/2017 16:53,20/04/2017 11:43,Kitchen,2,Frustration; Withdrawn;,Normal
+21/04/2017 09:30,21/04/2017 09:29,Kitchen,1,Repetition;,Normal
+21/04/2017 18:56,21/04/2017 18:56,Kitchen,1,Repetition;,Normal
+22/04/2017 09:17,22/04/2017 09:17,Kitchen,1,Repetition;,Normal
+22/04/2017 19:56,22/04/2017 18:14,Other,3,Frustration;,Normal
+23/04/2017 10:26,23/04/2017 10:26,Kitchen,1,Repetition;,Normal
+24/04/2017 22:34,24/04/2017 22:33,Kitchen,1,Lost;,Normal
+25/04/2017 07:37,25/04/2017 02:36,Bedroom,3,Frustration; Lost;,Normal
+25/04/2017 16:25,25/04/2017 13:21,Living Room,4,Frustration; Lost; Withdrawn;,Normal
+26/04/2017 11:15,26/04/2017 11:14,Kitchen,2,Frustration; Withdrawn;,Normal
+27/04/2017 12:11,27/04/2017 12:00,Kitchen,2,Frustration; Repetition;,Normal
+27/04/2017 20:45,27/04/2017 19:44,Living Room,3,Ambulation; Frustration; Repetition;,Normal
+29/04/2017 10:36,28/04/2017 09:57,Living Room,2,Ambulation; Frustration;,Normal
+29/04/2017 10:38,29/04/2017 10:38,Kitchen,1,Repetition;,Normal
+30/04/2017 09:20,30/04/2017 09:20,Kitchen,1,Repetition;,Normal
+30/04/2017 19:35,30/04/2017 16:25,Other,3,Frustration; Repetition;,Normal
+01/05/2017 09:11,01/05/2017 09:11,Kitchen,1,Repetition;,Normal
+02/05/2017 09:23,02/05/2017 09:23,Kitchen,1,Repetition;,Normal
+03/05/2017 09:26,03/05/2017 09:26,Kitchen,1,Repetition;,Normal
+03/05/2017 19:51,03/05/2017 17:44,Kitchen,3,Frustration; Withdrawn;,Normal
+04/05/2017 09:36,04/05/2017 09:36,Kitchen,1,Lost;,Normal
+01/02/2017 02:45,01/02/2017 02:34,Bedroom,5,"Vocal2, Withdrawn",Normal
+01/02/2017 21:15,01/02/2017 19:30,Other,4,"Vocal1, Withdrawn",Normal
+01/06/2017 03:34,01/06/2017 03:33,Other,3,"Repetition, Vocal1, Withdrawn",Normal
+01/10/2017 20:35,01/10/2017 20:05,Kitchen,3,"Vocal2, Withdrawn",Normal
+01/11/2017 00:13,01/10/2017 23:34,Kitchen,3,"Vocal1, Withdrawn",Normal
+1/16/2017 3:22,1/16/2017 2:42,Living Room,3,Withdrawn,Normal
+16/04/2017 15:03,16/04/2017 06:04,Kitchen,7,Clothing; Frustration; Vocal1; Withdrawn;,Normal
+17/04/2017 09:11,17/04/2017 09:08,Dining Room,4,Ambulation; Frustration; Touching; Vocal1; Withdrawn;,Normal
+18/04/2017 12:03,18/04/2017 06:07,Bedroom,7,Vocal1; Vocal2;,Normal
+19/04/2017 17:53,19/04/2017 06:13,Bedroom,6,Ambulation; Communication; Touching; Vocal1; Withdrawn;,Normal
+20/04/2017 19:41,20/04/2017 11:30,Kitchen,7,Ambulation; Communication; Frustration; Touching; Withdrawn;,Normal
+22/04/2017 08:23,22/04/2017 06:30,Kitchen,6,Ambulation; Clothing; Frustration; Vocal1; Withdrawn;,Normal
+22/04/2017 18:15,22/04/2017 18:00,Kitchen,6,Ambulation; Frustration; Touching; Vocal1; Withdrawn;,Normal
+26/04/2017 10:36,26/04/2017 06:00,Bedroom,5,Vocal1; Withdrawn;,Normal
+26/04/2017 10:37,26/04/2017 08:30,Living Room,5,Vocal1; Withdrawn;,Normal
+26/04/2017 21:14,26/04/2017 20:15,Dining Room,4,Ambulation; Frustration; Vocal1; Withdrawn;,Normal
+27/04/2017 08:24,27/04/2017 06:00,Kitchen,7,Clothing; Lost; Vocal1;,Normal
+30/04/2017 07:23,30/04/2017 07:22,Bedroom,5,Frustration; Withdrawn;,Normal
+01/05/2017 08:22,01/05/2017 05:00,Bedroom,4,Clothing; Frustration; Vocal1; Withdrawn;,Normal
+03/05/2017 07:20,03/05/2017 05:00,Bedroom,3,Clothing; Frustration; Touching;,Normal
+03/05/2017 19:32,03/05/2017 19:31,Kitchen,1,Communication; Touching;,Normal
+06/05/2017 08:15,06/05/2017 08:00,Bedroom,4,Ambulation; Clothing; Frustration; Vocal1; Withdrawn;,Normal
+08/05/2017 21:05,08/05/2017 21:04,Other,7,Ambulation; Frustration; Touching; Vocal1; Withdrawn;,Normal
+11/05/2017 20:59,11/05/2017 17:00,Kitchen,3,Ambulation; Frustration; Touching; Vocal1; Withdrawn;,Normal
+14/05/2017 17:08,14/05/2017 15:00,Dining Room,5,Ambulation; Clothing; Frustration; Repetition; Touching; Vocal1; Withdrawn;,Normal
+18/05/2017 07:22,18/05/2017 07:15,Kitchen,4,Ambulation; Clothing; Frustration; Touching; Vocal1; Withdrawn;,Normal
+5/17/2017 15:41,5/17/2017 15:41,Entryway,1,Vocal2;,Normal
+5/18/2017 13:26,5/18/2017 13:21,Bedroom,2,Frustration; Repetition; Vocal1; Vocal2;,Normal
+5/18/2017 13:27,5/18/2017 13:26,Kitchen,3,Clothing; Frustration; Touching;,Normal
+5/18/2017 13:27,5/18/2017 13:27,Kitchen,1,Vocal2;,Normal
+5/29/2017 21:14,5/29/2017 21:13,Bedroom,4,Vocal1; Withdrawn;,Normal
+5/31/2017 11:51,5/31/2017 11:51,Bedroom,4,Vocal1;,Normal
+06/09/2017 11:55,06/09/2017 11:54,Bedroom,5,Repetition; Vocal1; Withdrawn;,Normal
+6/17/2017 14:24,6/17/2017 14:23,Bedroom,3,Vocal1; Withdrawn;,Normal
+08/10/2017 10:00,08/10/2017 08:59,Other,5,Repetition;,Normal
+08/10/2017 10:06,08/10/2017 10:06,Kitchen,1,Repetition;,Normal
+08/10/2017 17:48,08/10/2017 17:46,Kitchen,1,Repetition;,Normal
+08/10/2017 18:55,08/10/2017 18:54,Kitchen,7,Communication;,Normal
+08/10/2017 18:58,08/10/2017 18:55,Kitchen,1,Repetition;,Normal
+08/10/2017 20:46,08/10/2017 20:45,Kitchen,8,Communication; Repetition; Vocal1; Withdrawn;,Agitation
+08/10/2017 22:00,08/10/2017 22:00,Kitchen,8,Repetition; Vocal1;,Agitation
+08/11/2017 08:33,08/10/2017 22:02,Kitchen,1,Repetition; Vocal1;,Normal
+08/11/2017 08:34,08/11/2017 08:34,Kitchen,8,Communication; Repetition; Vocal1; Withdrawn;,Normal
+08/11/2017 08:35,08/11/2017 08:34,Kitchen,1,Repetition,Normal
+08/11/2017 08:43,08/11/2017 08:43,Kitchen,1,Repetition; Vocal1;,Normal
+08/11/2017 08:43,08/11/2017 08:43,Kitchen,1,Repetition; Vocal1;,Normal
+08/11/2017 15:32,08/11/2017 15:31,Kitchen,8,OralFixation; Repetition; Vocal1; Withdrawn;,Agitation
+08/11/2017 15:32,08/11/2017 15:32,Kitchen,1,Repetition; Vocal1;,Normal
+08/11/2017 19:16,08/11/2017 19:15,Kitchen,9,OralFixation; Repetition; Vocal1; Withdrawn;,Agitation
+08/11/2017 19:18,08/11/2017 19:18,Kitchen,1,Repetition; Vocal1;,Normal
+08/11/2017 21:27,08/11/2017 21:27,Kitchen,9,Repetition; Vocal1; Withdrawn;,Agitation
+08/11/2017 21:29,08/11/2017 21:28,Kitchen,1,Repetition; Vocal1;,Normal
+08/12/2017 07:25,08/12/2017 07:25,Kitchen,5,Vocal1; Withdrawn;,Normal
+08/12/2017 12:58,08/12/2017 12:58,Kitchen,5,Lost;Repetition; Vocal1;,Normal
+08/12/2017 19:48,08/12/2017 19:48,Kitchen,8,Communication; Repetition; Vocal1; Withdrawn;,Agitation
+08/12/2017 22:07,08/12/2017 22:06,Kitchen,8,Repetition; Vocal1; Withdrawn;,Agitation
+8/13/2017 9:11,8/13/2017 9:10,Kitchen,8,Repetition; Vocal1; Withdrawn;,Agitation
+8/13/2017 9:11,8/13/2017 9:11,Kitchen,1,Repetition,Normal
+8/13/2017 18:46,8/13/2017 18:45,Kitchen,3,Repetition; Vocal1;,Normal
+8/13/2017 20:54,8/13/2017 20:53,Kitchen,9,Repetition; Vocal1; Withdrawn;,Agitation
+8/13/2017 20:54,8/13/2017 20:54,Kitchen,1,Repetition; Vocal1;,Normal
+8/13/2017 23:22,8/13/2017 23:22,Kitchen,8,Communication; Repetition; Vocal1; Withdrawn;,Agitation
+8/14/2017 6:30,8/14/2017 6:30,Kitchen,1,Repetition,Normal
+8/14/2017 6:31,8/14/2017 6:31,Kitchen,1,Repetition; Vocal1;,Normal
+8/14/2017 6:31,8/14/2017 6:31,Kitchen,1,Repetition; Vocal1;,Normal
+8/14/2017 11:21,8/14/2017 11:21,Kitchen,1,Clothing;,Normal
+8/14/2017 17:01,8/14/2017 17:01,Kitchen,1,Repetition,Normal
+8/14/2017 17:01,8/14/2017 17:01,Kitchen,1,Repetition,Normal
+8/14/2017 19:14,8/14/2017 19:13,Kitchen,7,Communication; Repetition; Vocal1; Withdrawn;,Normal
+8/15/2017 14:38,8/14/2017 19:00,Kitchen,7,Communication;,Normal
+8/15/2017 14:38,8/15/2017 6:42,Kitchen,7,Communication; Repetition;,Normal
+8/15/2017 14:39,8/15/2017 10:39,Kitchen,7,Communication; Repetition;,Normal
+8/15/2017 16:19,8/15/2017 16:19,Kitchen,1,Repetition,Normal
+8/15/2017 17:39,8/15/2017 17:39,Kitchen,8,Communication; Withdrawn;,Agitation
+8/16/2017 14:18,8/16/2017 14:18,Kitchen,9,Lost; Repetition; Touching; Vocal1; Withdrawn;,Agitation
+8/16/2017 14:59,8/16/2017 14:58,Kitchen,1,Repetition,Normal
+8/16/2017 19:17,8/16/2017 19:16,Kitchen,9,OralFixation; Repetition; Vocal1; Withdrawn;,Agitation
+8/16/2017 21:54,8/16/2017 21:54,Kitchen,8,Communication; Lost; Repetition; Vocal1;,Agitation
+8/17/2017 13:07,8/17/2017 13:07,Kitchen,7,Communication; Lost; Repetition; Vocal1;,Normal
+8/17/2017 21:11,8/17/2017 21:10,Kitchen,7,Lost; Repetition; Vocal1;,Normal
+8/18/2017 7:36,8/18/2017 7:35,Kitchen,8,Repetition; Vocal1;,Agitation
+8/18/2017 7:36,8/18/2017 7:36,Kitchen,1,Repetition,Normal
+8/18/2017 18:01,8/18/2017 18:00,Kitchen,5,Repetition;Vocal1;,Normal
+8/18/2017 19:34,8/18/2017 19:33,Kitchen,7,Communication; Repetition; Vocal1; Withdrawn;,Normal
+8/18/2017 20:50,8/18/2017 20:49,Kitchen,9,Communication; Repetition; Vocal1;,Agitation
+8/19/2017 14:31,8/19/2017 14:31,Kitchen,7,Communication; Repetition; Vocal1; Withdrawn;,Normal
+8/19/2017 19:23,8/19/2017 19:22,Kitchen,4,Communication; Repetition; Vocal1;,Normal
+8/19/2017 21:48,8/19/2017 21:48,Kitchen,8,Communication; Repetition; Vocal1;,Agitation
+8/20/2017 11:54,8/20/2017 11:54,Kitchen,5,Communication; Lost; Repetition; Vocal1;,Normal
+8/20/2017 12:07,8/20/2017 12:06,Kitchen,9,Lost;,Agitation
+8/20/2017 19:28,8/20/2017 19:27,Kitchen,8,Communication; Repetition; Vocal1;,Agitation
+8/20/2017 21:38,8/20/2017 21:37,Kitchen,6,Communication; Repetition; Vocal1;,Normal
+8/21/2017 6:41,8/21/2017 6:41,Kitchen,9,Communication; Frustration; Repetition; Vocal1;,Agitation
+8/21/2017 6:42,8/21/2017 6:41,Kitchen,1,Repetition,Normal
+8/21/2017 22:42,8/21/2017 22:41,Kitchen,8,Communication; Repetition;,Agitation
+8/22/2017 12:59,8/22/2017 12:58,Kitchen,2,Lost;Repetition; Vocal1;,Normal
+8/22/2017 23:51,8/22/2017 23:51,Kitchen,8,Frustration; Repetition; Vocal1;,Agitation
+8/23/2017 16:22,8/23/2017 7:23,Kitchen,1,Repetition,Normal
+8/23/2017 16:26,8/23/2017 16:25,Kitchen,2,Lost; Repetition; Vocal1;,Normal
+8/23/2017 22:39,8/23/2017 22:37,Kitchen,2,Lost; Repetition; Vocal1;,Normal
+8/23/2017 22:39,8/23/2017 22:39,Kitchen,1,Repetition,Normal
+8/24/2017 9:27,8/24/2017 7:08,Kitchen,7,Frustration; Repetition; Vocal1;,Normal
+8/24/2017 9:29,8/24/2017 9:29,Kitchen,1,Repetition,Normal
+8/24/2017 17:05,8/24/2017 16:57,Kitchen,1,Repetition,Normal
+8/24/2017 17:25,8/24/2017 17:25,Kitchen,9,Communication; Repetition; Vocal1;,Agitation
+8/24/2017 21:54,8/24/2017 17:34,Kitchen,1,Repetition;,Normal
+8/24/2017 21:55,8/24/2017 21:55,Kitchen,2,Lost;Repetition; Vocal1;,Normal
+8/25/2017 14:13,8/25/2017 8:21,Kitchen,7,Communication; Repetition; Vocal1;,Normal
+8/25/2017 14:13,8/25/2017 14:13,Kitchen,1,Repetition,Normal
+8/25/2017 18:12,8/25/2017 18:12,Kitchen,9,Communication; Repetition; Vocal1;,Agitation
+8/25/2017 21:17,8/25/2017 21:17,Kitchen,8,Communication; Repetition; Vocal1;,Agitation
+8/26/2017 8:22,8/26/2017 8:22,Kitchen,6,Communication; Vocal1;,Normal
+8/26/2017 20:51,8/26/2017 20:51,Kitchen,8,Communication; Lost; Repetition; Vocal1;,Agitation
+8/26/2017 20:51,8/26/2017 20:51,Kitchen,8,Communication; Lost; Repetition; Vocal1;,Agitation
+8/27/2017 14:04,8/27/2017 14:04,Kitchen,8,Communication; Repetition; Vocal1;,Agitation
+8/27/2017 18:41,8/27/2017 18:40,Kitchen,2,Communication; Lost; Repetition;,Normal
+8/27/2017 20:07,8/27/2017 20:07,Kitchen,7,Communication; Repetition;,Normal
+8/28/2017 6:20,8/28/2017 6:19,Kitchen,9,Communication; Repetition; Vocal1;,Agitation
+8/28/2017 18:45,8/28/2017 18:45,Kitchen,8,Communication; Lost;,Agitation
+8/28/2017 18:52,8/28/2017 18:51,Kitchen,1,Repetition,Normal
+8/28/2017 18:52,8/28/2017 18:52,Kitchen,1,Repetition,Normal
+8/28/2017 20:01,8/28/2017 19:12,Kitchen,1,Repetition,Normal
+8/28/2017 20:01,8/28/2017 20:01,Kitchen,9,Communication; Lost;,Agitation
+8/28/2017 20:18,8/28/2017 20:17,Kitchen,9,Lost;,Agitation
+8/28/2017 21:29,8/28/2017 21:29,Kitchen,7,Lost;,Normal
+8/29/2017 11:26,8/29/2017 11:25,Kitchen,8,Communication; Lost;,Agitation
+8/29/2017 21:21,8/29/2017 21:21,Kitchen,2,Communication; Repetition; Vocal1;,Normal
+8/30/2017 9:55,8/30/2017 9:55,Kitchen,2,Communication; Repetition; Vocal1;,Normal
+8/30/2017 12:39,8/30/2017 12:39,Kitchen,6,Communication; Repetition; Vocal1; Withdrawn;,Normal
+8/30/2017 19:17,8/30/2017 19:17,Kitchen,8,Communication; Lost; Repetition; Vocal1; Withdrawn;,Agitation
+8/30/2017 19:17,8/30/2017 19:17,Kitchen,1,Repetition,Normal
+8/30/2017 19:18,8/30/2017 19:17,Kitchen,1,Repetition,Normal
+8/30/2017 19:18,8/30/2017 19:18,Kitchen,1,Repetition,Normal
+8/30/2017 22:21,8/30/2017 22:20,Kitchen,7,Communication; Repetition; Vocal1;,Normal
+8/31/2017 8:00,8/31/2017 8:00,Kitchen,7,Communication; Repetition; Vocal1;,Normal
+8/31/2017 8:00,8/31/2017 8:00,Kitchen,1,Repetition,Normal
+8/31/2017 19:14,8/31/2017 19:14,Kitchen,8,Communication; Repetition; Vocal1; Withdrawn;,Agitation
+09/01/2017 12:11,09/01/2017 12:11,Kitchen,8,Communication; Repetition; Vocal1; Withdrawn;,Agitation
+09/01/2017 18:13,09/01/2017 15:20,Kitchen,9,Communication; Repetition; Vocal1; Withdrawn;,Agitation
+09/01/2017 21:45,09/01/2017 21:44,Kitchen,7,Communication; Repetition; Vocal1; Withdrawn;,Normal
+09/01/2017 21:45,09/01/2017 21:45,Kitchen,1,Repetition,Normal
+09/02/2017 13:10,09/02/2017 13:09,Kitchen,9,Communication; Repetition; Vocal1; Withdrawn;,Agitation
+09/02/2017 16:07,09/02/2017 15:14,Kitchen,7,Communication; Repetition; Vocal1;,Normal
+09/02/2017 16:07,09/02/2017 16:07,Kitchen,1,Repetition,Normal
+09/02/2017 21:25,09/02/2017 21:25,Kitchen,6,Communication; Repetition; Vocal1;,Normal
+09/03/2017 08:54,09/03/2017 08:54,Kitchen,6,Communication; Repetition; Vocal1; Withdrawn;,Normal
+09/03/2017 11:30,09/03/2017 11:30,Kitchen,7,Communication; OralFixation; Repetition; Vocal1; Withdrawn;,Normal
+09/03/2017 12:09,09/03/2017 12:09,Kitchen,1,Repetition,Normal
+09/03/2017 18:43,09/03/2017 18:43,Kitchen,9,Communication; Repetition; Vocal1; Withdrawn;,Agitation
+09/03/2017 21:22,09/03/2017 21:22,Kitchen,9,Communication; Repetition; Vocal1;,Agitation
+09/04/2017 08:30,09/04/2017 08:30,Kitchen,9,Communication; Repetition; Vocal1;,Agitation
+09/04/2017 19:25,09/04/2017 19:24,Kitchen,6,Communication; Repetition; Vocal1; Withdrawn;,Normal
+09/04/2017 22:03,09/04/2017 22:03,Kitchen,7,Communication; Repetition; Vocal1;,Normal
+09/05/2017 08:40,09/05/2017 08:40,Kitchen,6,Communication; Repetition; Vocal1;,Normal
+09/05/2017 08:40,09/05/2017 08:40,Kitchen,6,Communication; Repetition; Vocal1;,Normal
+09/05/2017 14:03,09/05/2017 14:03,Kitchen,8,Communication; Repetition; Vocal1; Withdrawn;,Agitation
+09/05/2017 14:03,09/05/2017 14:03,Kitchen,1,Repetition,Normal
+09/05/2017 19:17,09/05/2017 19:17,Kitchen,7,Communication; Repetition; Vocal1; Withdrawn;,Normal
+09/05/2017 21:27,09/05/2017 21:27,Kitchen,9,Communication; Repetition; Vocal1;,Agitation
+09/06/2017 08:09,09/06/2017 08:09,Kitchen,4,Communication; Repetition;,Normal
+09/06/2017 15:38,09/06/2017 15:38,Kitchen,7,Communication; Repetition; Vocal1;,Normal
+09/06/2017 21:41,09/06/2017 21:41,Kitchen,3,Communication; Lost; Repetition; Vocal1;,Normal
+09/06/2017 21:42,09/06/2017 21:42,Kitchen,1,Communication; Vocal1;,Normal
+09/07/2017 09:41,09/07/2017 09:41,Kitchen,2,Communication;,Normal
+09/07/2017 13:01,09/07/2017 13:01,Kitchen,2,Communication;,Normal
+09/07/2017 20:54,09/07/2017 20:53,Kitchen,1,Repetition,Normal
+09/07/2017 21:57,09/07/2017 21:57,Kitchen,2,Communication; Repetition; Vocal1;,Normal
+09/07/2017 22:02,09/07/2017 22:02,Kitchen,9,Communication;,Agitation
+09/08/2017 12:18,09/08/2017 07:21,Kitchen,9,Communication; Repetition; Vocal1; Withdrawn;,Agitation
+09/08/2017 22:07,09/08/2017 22:07,Kitchen,6,Communication; Vocal1;,Normal
+09/09/2017 11:42,09/09/2017 09:28,Kitchen,7,Communication; Repetition; Vocal1; Withdrawn;,Normal
+09/09/2017 21:53,09/09/2017 21:53,Kitchen,6,Communication; Vocal1;,Normal
+09/10/2017 14:47,09/10/2017 14:47,Kitchen,8,Communication; Repetition; Vocal1; Withdrawn;,Agitation
+09/10/2017 21:44,09/10/2017 21:44,Kitchen,6,"Communication;  Repetition;  Vocal1, Withdrawn;",Normal
+09/12/2017 20:50,09/12/2017 20:50,Kitchen,2,Repetition;,Normal
+09/12/2017 21:27,09/12/2017 21:27,Kitchen,8,Communication;,Agitation
+9/13/2017 13:58,9/13/2017 13:58,Kitchen,6,Communication; Repetition; Vocal1;,Normal
+9/13/2017 19:53,9/13/2017 19:52,Kitchen,3,Communication; Lost; Repetition; Vocal1;,Normal
+9/13/2017 21:40,9/13/2017 21:39,Kitchen,7,Communication; Repetition; Vocal1;,Normal
+10/08/2016 07:33,10/08/2016 07:33,Bedroom,4,Communication;  Physical2;  Shadowing;,Normal
+10/08/2016 18:20,10/08/2016 18:17,Bedroom,1,Repetition;,Normal
+10/08/2016 23:15,10/08/2016 21:07,Bedroom,3,Vocal1;,Normal
+10/09/2016 19:28,10/09/2016 18:15,Kitchen,1,Frustration;,Normal
+10/10/2016 22:32,10/10/2016 22:31,Bedroom,1,Vocal1;,Normal
+10/24/2016 3:24,10/24/2016 2:15,Other,2,Withdrawn;,Normal
+10/25/2016 23:51,10/25/2016 22:45,Kitchen,2,Repetition;,Normal
+10/31/2016 4:06,11/01/2016 03:55,Dining Room,1,Frustration;,Normal
+10/31/2016 17:54,10/31/2016 17:52,Kitchen,1,Withdrawn;,Normal
+11/01/2016 23:05,11/01/2016 22:05,Entryway,2,Communication;  Frustration;,Normal
+11/04/2016 20:28,11/04/2016 20:27,Bedroom,1,Vocal1;,Normal
+11/07/2016 04:26,11/06/2016 23:03,Kitchen,1,Ambulation;  Vocal1; ,Normal
+07/03/2017 10:19,07/03/2017 10:18,Kitchen,1,Repetition;,Normal
+07/03/2017 11:16,07/03/2017 11:15,Kitchen,1,Repetition;,Normal
+07/05/2017 19:58,07/05/2017 19:58,Kitchen,1,Repetition;,Normal
+07/06/2017 16:59,07/06/2017 16:59,Kitchen,1,Repetition;,Normal
+07/07/2017 12:25,07/07/2017 12:25,Kitchen,1,Communication;,Normal
+07/07/2017 19:34,07/07/2017 19:34,Kitchen,1,Repetition;,Normal
+07/08/2017 09:22,07/08/2017 09:21,Kitchen,1,Repetition;,Normal
+07/08/2017 13:52,07/08/2017 13:51,Other,4,Vocal2;,Normal
+07/08/2017 22:45,07/08/2017 22:45,Kitchen,1,Repetition;,Normal
+07/09/2017 08:19,07/09/2017 08:19,Kitchen,1,Repetition;,Normal
+07/09/2017 15:23,07/09/2017 15:22,Kitchen,1,Repetition;,Normal
+07/09/2017 19:35,07/09/2017 19:34,Other,2,Repetition;,Normal
+07/10/2017 09:55,07/10/2017 09:55,Kitchen,1,Repetition;,Normal
+07/10/2017 17:19,07/10/2017 17:18,Kitchen,1,Repetition;,Normal
+07/11/2017 15:52,07/11/2017 15:52,Kitchen,1,Repetition;,Normal
+07/11/2017 23:29,07/11/2017 23:28,Kitchen,1,Repetition;,Normal
+07/12/2017 09:32,07/12/2017 09:32,Kitchen,1,Repetition;,Normal
+07/12/2017 16:16,07/12/2017 16:16,Kitchen,1,Repetition;,Normal
+07/12/2017 22:21,07/12/2017 22:21,Kitchen,1,Repetition;,Normal
+7/13/2017 9:48,7/13/2017 9:47,Kitchen,1,Repetition;,Normal
+7/14/2017 12:18,7/14/2017 12:18,Kitchen,1,Repetition;,Normal
+7/14/2017 17:49,7/14/2017 17:49,Kitchen,1,Repetition;,Normal
+7/15/2017 15:52,7/15/2017 15:52,Kitchen,1,Repetition;,Normal
+7/16/2017 18:32,7/16/2017 18:32,Kitchen,1,Repetition;,Normal
+7/17/2017 10:28,7/17/2017 10:28,Kitchen,1,Repetition;,Normal
+7/18/2017 19:26,7/18/2017 19:26,Kitchen,1,Repetition;,Normal
+7/20/2017 0:09,7/20/2017 0:09,Kitchen,3,Communication; Vocal1; Vocal2;,Normal
+7/20/2017 12:02,7/20/2017 12:02,Kitchen,1,Repetition;,Normal
+7/21/2017 21:34,7/21/2017 21:34,Kitchen,1,Repetition;,Normal
+7/22/2017 22:44,7/22/2017 22:44,Kitchen,1,Repetition;,Normal
+7/23/2017 21:45,7/23/2017 21:45,Kitchen,1,Repetition;,Normal
+7/25/2017 0:42,7/25/2017 0:42,Kitchen,1,Repetition;,Normal
+7/25/2017 12:00,7/25/2017 12:00,Kitchen,1,Repetition;,Normal
+7/25/2017 21:41,7/25/2017 21:41,Kitchen,1,Repetition;,Normal
+7/28/2017 22:57,7/28/2017 22:57,Kitchen,1,Repetition;,Normal
+7/29/2017 10:42,7/29/2017 10:42,Kitchen,1,Repetition;,Normal
+08/03/2017 12:45,08/03/2017 12:44,Kitchen,1,Repetition;,Normal
+08/04/2017 22:13,08/04/2017 22:13,Kitchen,1,Repetition;,Normal
+08/07/2017 11:44,08/07/2017 11:44,Kitchen,1,Repetition;,Normal
+08/08/2017 19:15,08/08/2017 19:15,Kitchen,1,Repetition;,Normal
